@@ -1,3 +1,3 @@
 <?php
-	echo "Demo nhe!"
+	echo "Demo nhe 2!"
 ?>
